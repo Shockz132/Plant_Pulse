@@ -1,0 +1,16 @@
+{
+    "gardening_advisor": [
+        {"tag": "greeting", "patterns": ["Hi", "Hello", "Hey"], "responses": ["Hello!", "Hi there!"]},
+        {"tag": "name", "patterns": ["What is your name?", "Who are you?"], "responses": ["I am Sprout, your garden assistant chatbot."]},
+        {"tag": "help", "patterns": ["How can you help me?", "What can you do?"], "responses": ["I can provide tips and recommendations for your garden."]},
+        {"tag": "goodbye", "patterns": ["Bye", "See you", "Goodbye"], "responses": ["Goodbye!", "Have a great day!"]},
+        {"tag": "ask_crops", "patterns": ["What crops should I grow?", "Which crops are best for beginners?", "What are some unique crops to try?"], 
+          "responses": ["For beginners, tomatoes, kang kong, and peppers are easy to grow. For unique flavors, consider kiwis, passionfruit, or dragon fruit."]},
+        {"tag": "ask_dishes_tomato", "patterns": ["What dishes can I make with tomatoes?", "Can you suggest a recipe using tomatoes?"], 
+          "responses": ["With tomatoes, you can make tomato soup, caprese salad, or homemade salsa."]},
+        {"tag": "ask_dishes_kang_kong", "patterns": ["What dishes can I make with Kang Kong?", "Can you suggest a recipe using Kang Kong?"],
+          "responses": ["With Kang Kong, you can make Sambal Kang kong, Cuttlefish Kang Kong or Kang Kong with Oyster Sauce.  "]},
+        {"tag": "ask_dishes_pepper", "patterns": ["What dishes can I make with peppers?", "Can you suggest a recipe using peppers?"], 
+          "responses": ["With peppers, you can make pepper chicken, pepper potatoes, or Sichuan pepper sauce."]}
+    ]
+}

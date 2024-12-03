@@ -1,0 +1,14 @@
+{
+  "labels":[
+    "greeting",
+    "name",
+    "help",
+    "goodbye",
+    "ask_crops",
+    "ask_dishes_tomato",
+    "ask_dishes_kang_kong",
+    "ask_dishes_pepper"
+  ],
+  "threshold":0.0,
+  "positive_label":null
+}
